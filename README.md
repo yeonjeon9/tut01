@@ -29,16 +29,16 @@ greet("홍길동")
 ```
 
 ## 링크와 이미지
-[Google로 가기](https://www.google.com)
+[Google로 가기]([https://www.google.com](https://image.dongascience.com/Photo/2019/09/d2468576cecf1313437de5a883bfa2ed.jpg))
 
 귀여운 고양이 이미지:
 
-![고양이 이미지](https://via.placeholder.com/300)
+![고양이 이미지]([https://via.placeholder.com/300](https://image.dongascience.com/Photo/2019/09/d2468576cecf1313437de5a883bfa2ed.jpg))
 
 ## 할 일 목록
 - [x] 깃헙 계정 만들기
 - [x] 리포지토리 생성하기
-- [x] README 작성하기
+- [ ] README 작성하기
 - [ ] 이슈 등록하기
 
 ## 테이블 작성하기
@@ -56,4 +56,6 @@ greet("홍길동")
 - *기울임*
 - ~~취소선~~
 
-감사합니다.
+---
+
+감사합니다!
