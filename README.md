@@ -33,7 +33,7 @@ greet("홍길동")
 
 귀여운 고양이 이미지:
 
-![고양이 이미지](https://via.placeholder.com/300)
+![고양이 이미지](https://via.placeholder.com/300](https://image.dongascience.com/Photo/2019/09/d2468576cecf1313437de5a883bfa2ed.jpg)
 
 ## 할 일 목록
 - [x] 깃헙 계정 만들기
