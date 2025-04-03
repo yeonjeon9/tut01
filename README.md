@@ -29,11 +29,11 @@ greet("홍길동")
 ```
 
 ## 링크와 이미지
-[Google로 가기]([https://www.google.com](https://image.dongascience.com/Photo/2019/09/d2468576cecf1313437de5a883bfa2ed.jpg))
+[Google로 가기](https://www.google.com)
 
 귀여운 고양이 이미지:
 
-![고양이 이미지]([https://via.placeholder.com/300](https://image.dongascience.com/Photo/2019/09/d2468576cecf1313437de5a883bfa2ed.jpg))
+![고양이 이미지](https://via.placeholder.com/300)
 
 ## 할 일 목록
 - [x] 깃헙 계정 만들기
